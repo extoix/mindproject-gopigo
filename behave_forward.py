@@ -1,3 +1,5 @@
+# After talking with Dr. Anderson may need to evaluate this behavior
+# Simplify the behavior to just move forward or "cruse"
 from time import sleep
 import perception
 import movement
